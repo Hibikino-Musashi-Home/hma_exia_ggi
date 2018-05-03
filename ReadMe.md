@@ -49,3 +49,4 @@ Test Phase では，音声命令から取得した単語とデータベースに
 
 ## 詳細
 本手順は，下記PDFファイルにより詳細にまとめた．
+[https://github.com/hibikino-musashi-athome/hma_exia_ggi/raw/master/Hibikino_ggi.pdf](https://github.com/hibikino-musashi-athome/hma_exia_ggi/raw/master/Hibikino_ggi.pdf)
